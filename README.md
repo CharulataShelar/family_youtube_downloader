@@ -1,2 +1,9 @@
 # family_youtube_downloader
-Family Youtube Downloader
+
+Youtube Video Downloader built using Python.
+
+
+Libraries used: 
+1. pytube - To download youtube video
+2. Flask - To develop web application 
+3. Heroku - To deploy weapplication on cloud
